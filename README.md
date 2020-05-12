@@ -1,6 +1,6 @@
 ## Web Scraping with Scrapy
 
-Scrapy is a popular Python framework used for efficient web scraping. In this short project, I have created a basic spider to crawl the Billboard Hot 100 charts from inception til now.
+Scrapy is a popular Python framework used for efficient web scraping. In this short project, I have created a basic spider to crawl the **Billboard Hot 100** charts from inception until now.
 
 From August 4, 1958 until December 25 1961, charts were catalogued on Monday. They were subsequently catalouged on Saturday. A method was created to use a previous date string to identify the url of the previous chart. 
 
